@@ -43,7 +43,7 @@ class User extends Controller
 
     // @TODO: Do your error checking!
 
-    $this->model->editSave($data);
+    $this->model->editSave($data, $id);
     header('location: ' . URL . 'user');
   }
 

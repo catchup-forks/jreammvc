@@ -1,4 +1,4 @@
-config/config.php
 nbproject
 .git
 .idea
+/app/config/config.php
