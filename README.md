@@ -12,5 +12,7 @@ Router
 
 I also need a router, so I'll be using his other project for that
 
-
-
+Config
+-------------------------
+Make sure you copy app/config/config.dist.php to config.php
+Make sure you have created the database and imported the sql_dump

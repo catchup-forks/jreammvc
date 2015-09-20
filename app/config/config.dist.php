@@ -2,7 +2,7 @@
 
 // Always provide a TRAILING SLASH (/) AFTER A PATH
 define('URL', 'http://jream.local/');
-define('LIBS', 'libs/');
+define('LIBS', APP_PATH . '/libs/');
 
 define('DB_TYPE', 'mysql');
 define('DB_HOST', 'localhost');
